@@ -1,6 +1,3 @@
-# claude-nav
-给Claude加一条对话导航：长对话再也不迷路。侧边栏实时索引你的每一个提问，一键跳转；选取精彩对话，一键生成可分享链接。
-
 # Claude 对话导航
 
 一个 Chrome 扩展，为 [Claude.ai](https://claude.ai) 添加两个功能：
